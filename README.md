@@ -1,4 +1,4 @@
-# call-Trace-using-pin-tool
+# pintool installation and call trace(pintool)
 in this repository you will find about the using of pin tool and installation of call trace which is a pin tool
 
 
